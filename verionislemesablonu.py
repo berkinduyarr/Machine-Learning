@@ -2,7 +2,7 @@
 """
 Created on Mon Jul  6 18:50:13 2020
 
-@author: sadievrenseker
+@author: Berkin
 """
 
 #1.kutuphaneler
