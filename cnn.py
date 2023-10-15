@@ -3,7 +3,7 @@
 """
 Created on Thu Aug 15 04:18:20 2018
 
-@author: sadievrenseker
+@author: Berkin
 """
 from keras.models import Sequential
 from keras.layers import Convolution2D
